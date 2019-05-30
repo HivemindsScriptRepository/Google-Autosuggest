@@ -1,0 +1,5 @@
+In order to use this Python script, please install Python 3 from https://www.python.org/downloads/.
+Import the following libraries: urllib, beautifulsoup.
+Create a file name named auto_suggest_input.txt and enter all your keywords.
+Create another file named auto_suggest_output.txt.
+Run the Python script auto_suggest.py and you'll receive a list of keywords in the auto_suggest_output.txt file.
